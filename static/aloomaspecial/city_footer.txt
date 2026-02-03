@@ -1,0 +1,50 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:large;">1. What is the "1/4 rule" when trimming my trees?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The 1/4 rule is a standard safety guideline where our arborists never remove more than 25% of a tree’s living canopy in a single growing season. This ensures the tree has enough foliage to produce energy and recover from the pruning.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. Do you provide disposal manifests for large projects?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, for commercial or large-scale utility tree services in #State, we can provide documentation regarding where the debris was hauled and processed, ensuring all waste is handled according to local environmental standards.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. How do I know if I need tree removal or just trimming?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our experts will perform a site walk-through to check for internal decay, hollow trunks, or root rot. If the structural integrity is compromised, we will recommend a tree removal service near me in #State to prevent property damage.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. How soon can you start my project in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We typically schedule assessments within 24–48 hours and can often begin work shortly after the quote is approved by the homeowner.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. What does a tree trimming service cost on average?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Costs depend on the size and location of the tree, but we provide free, detailed estimates so there are no surprises for our clients in #State.</p>
+                <h4 class="template4 palooma" style="font-size:large;">6. Do I need to be home while you work?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">As long as our crew has clear access to the property, you don’t need to be present for the service in #State.</p>
+                <div class="callalooma mx-auto"><a href="tel:833-435-4424">Click Here To Call Us (833) 435-4424</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
